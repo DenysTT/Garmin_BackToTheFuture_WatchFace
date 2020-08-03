@@ -1,0 +1,5 @@
+<properties>
+    <property id="appVersion" type="string">1.0.5</property>    
+    <property id="LayoutType" type="number">1</property>
+</properties>
+

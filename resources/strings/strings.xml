@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">BackToTheFuture</string>    
+    <string id="AppVersionTitle">Version</string> 
+    <string id="LayoutTypeTitle">Layout</string>
+    
+    <string id="LAYOUTMODE_GRAY">Gray Background</string>
+    <string id="LAYOUTMODE_BLACK">Black Background</string>
+</strings>

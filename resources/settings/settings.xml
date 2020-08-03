@@ -1,0 +1,16 @@
+<settings>
+	<setting propertyKey="@Properties.appVersion" 
+	               title="@Strings.AppVersionTitle">
+		<settingConfig type="alphaNumeric" readonly="true" />
+	</setting>	
+	
+	<!-- LAYOUT -->
+    <setting propertyKey="@Properties.LayoutType" 
+                    title="@Strings.LayoutTypeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.LAYOUTMODE_GRAY</listEntry>
+            <listEntry value="1">@Strings.LAYOUTMODE_BLACK</listEntry>
+        </settingConfig>
+    </setting>        
+    
+</settings>

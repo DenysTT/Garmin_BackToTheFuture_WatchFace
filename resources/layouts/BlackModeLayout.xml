@@ -1,0 +1,8 @@
+<resources>
+	<layout id="BlackModeLayout">
+		<drawable id="presentView" class="PresentTimeView">
+		</drawable>
+		<drawable id="activityView" class="ActivityView">
+		</drawable>
+	</layout>
+</resources>

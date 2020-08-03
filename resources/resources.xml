@@ -1,0 +1,12 @@
+<resources>
+    <fonts>
+        <font id="id_verdana" filename="fonts/verdana.fnt" filter="ABCDDEFGHIJKLMNOPQRSTUVWXYZ " />
+        <font id="id_verdana_small" filename="fonts/verdana_small.fnt" filter="ABCDEFGHIJKLMNOPQRSTUVWXYZ " />
+        <font id="id_font_clock" filename="fonts/clock2.fnt" filter="0123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.% " />
+    </fonts>
+
+    <drawable-list id="MainBackground" background="Gfx.COLOR_DK_GRAY">
+        <shape type="rectangle" x="10" y="0" width="210" height="220" color="Gfx.COLOR_DK_GRAY" />
+    </drawable-list>
+
+</resources>

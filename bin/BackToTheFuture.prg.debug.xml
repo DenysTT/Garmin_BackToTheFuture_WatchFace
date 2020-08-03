@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="12" pc="268435460" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="17" pc="268435481" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="20" pc="268435485" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="21" pc="268435522" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="22" pc="268435559" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="23" pc="268435576" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="24" pc="268435595" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="25" pc="268435628" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="26" pc="268435702" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="28" pc="268435824" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="29" pc="268435841" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="30" pc="268435865" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="31" pc="268435884" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="32" pc="268435903" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="33" pc="268435922" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="34" pc="268435949" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="35" pc="268435968" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="36" pc="268435981" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="37" pc="268435999" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="38" pc="268436017" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="45" pc="268436035" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="46" pc="268436069" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="47" pc="268436112" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="48" pc="268436146" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="49" pc="268436189" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="50" pc="268436223" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="54" pc="268436267" symbol="customDrawText"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="55" pc="268436271" symbol="customDrawText"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\PresentTimeView.mc" lineNum="56" pc="268436297" symbol="customDrawText"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="17" pc="268436330" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="19" pc="268436334" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="20" pc="268436354" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="21" pc="268436387" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="22" pc="268436420" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="23" pc="268436453" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="27" pc="268436487" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="30" pc="268436491" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="31" pc="268436528" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="32" pc="268436551" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="33" pc="268436570" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="34" pc="268436589" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="35" pc="268436614" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="36" pc="268436639" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="37" pc="268436664" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="38" pc="268436683" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="39" pc="268436702" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="40" pc="268436774" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="41" pc="268436822" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="42" pc="268436895" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="43" pc="268436919" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="44" pc="268436937" symbol="draw"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="47" pc="268436982" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="49" pc="268436986" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="50" pc="268436999" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="51" pc="268437012" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="53" pc="268437023" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="57" pc="268437065" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="61" pc="268437107" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="63" pc="268437149" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="67" pc="268437155" symbol="convertData"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="71" pc="268437162" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="73" pc="268437166" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="74" pc="268437173" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="75" pc="268437197" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="77" pc="268437221" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="78" pc="268437232" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="82" pc="268437271" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="87" pc="268437299" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="88" pc="268437309" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="90" pc="268437320" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="94" pc="268437353" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\Views\\ActivityView.mc" lineNum="97" pc="268437372" symbol="convertDistance"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="16" pc="268437376" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="17" pc="268437380" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="21" pc="268437399" symbol="onLayout"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="22" pc="268437403" symbol="onLayout"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="23" pc="268437434" symbol="onLayout"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="25" pc="268437445" symbol="onLayout"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="28" pc="268437496" symbol="onLayout"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="35" pc="268437537" symbol="onShow"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="39" pc="268437542" symbol="onUpdate"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="40" pc="268437546" symbol="onUpdate"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="41" pc="268437560" symbol="onUpdate"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="50" pc="268437581" symbol="onHide"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="54" pc="268437586" symbol="onExitSleep"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="58" pc="268437591" symbol="onEnterSleep"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureView.mc" lineNum="59" pc="268437595" symbol="onEnterSleep"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureApp.mc" lineNum="5" pc="268437612" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureApp.mc" lineNum="6" pc="268437616" symbol="initialize"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureApp.mc" lineNum="10" pc="268437635" symbol="onStart"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureApp.mc" lineNum="14" pc="268437640" symbol="onStop"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureApp.mc" lineNum="18" pc="268437645" symbol="getInitialView"/>
+<entry filename="F:\\ConnectIQ\\Projects\\BackToTheFuture\\source\\BackToTheFutureApp.mc" lineNum="19" pc="268437649" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="23" pc="268437687" symbol="initialize"/>
+<entry filename="Rez" lineNum="24" pc="268437691" symbol="initialize"/>
+<entry filename="Rez" lineNum="27" pc="268437716" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268437720" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268437727" symbol="draw"/>
+<entry filename="Rez" lineNum="30" pc="268437734" symbol="draw"/>
+<entry filename="Rez" lineNum="31" pc="268437747" symbol="draw"/>
+<entry filename="Rez" lineNum="32" pc="268437760" symbol="draw"/>
+<entry filename="Rez" lineNum="35" pc="268437783" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="36" pc="268437787" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="37" pc="268437823" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="38" pc="268437867" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="40" pc="268437903" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="41" pc="268437939" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="54" pc="268438002" symbol="BlackModeLayout"/>
+<entry filename="Rez" lineNum="56" pc="268438006" symbol="BlackModeLayout"/>
+<entry filename="Rez" lineNum="57" pc="268438049" symbol="BlackModeLayout"/>
+<entry filename="Rez" lineNum="60" pc="268438092" symbol="BlackModeLayout"/>
+<entry filename="Rez" lineNum="69" pc="268438120" symbol="NormalModeLayout"/>
+<entry filename="Rez" lineNum="71" pc="268438124" symbol="NormalModeLayout"/>
+<entry filename="Rez" lineNum="72" pc="268438167" symbol="NormalModeLayout"/>
+<entry filename="Rez" lineNum="75" pc="268438210" symbol="NormalModeLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="15" object="true" symbol="MainBackground"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="35" symbol="mainDraw"/>
+<entry field="true" id="23" symbol="LayoutTypeTitle"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="32" method="true" symbol="convertDistance"/>
+<entry id="11" object="true" symbol="BackToTheFutureApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="31" method="true" symbol="convertData"/>
+<entry field="true" id="28" symbol="activityInfo"/>
+<entry field="true" id="8388737" symbol="calories"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="29" symbol="stepsGoal"/>
+<entry field="true" id="30" symbol="distUnits"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry id="21" method="true" symbol="NormalModeLayout"/>
+<entry id="8" object="true" symbol="PresentTimeView"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry field="true" id="19" symbol="id_font_clock"/>
+<entry id="10" object="true" symbol="BackToTheFutureView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="22" symbol="AppVersionTitle"/>
+<entry field="true" id="17" symbol="id_verdana"/>
+<entry id="20" method="true" symbol="BlackModeLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="27" method="true" symbol="customDrawText"/>
+<entry id="9" object="true" symbol="ActivityView"/>
+<entry field="true" id="8388911" symbol="distance"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="8388912" symbol="steps"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="18" symbol="id_verdana_small"/>
+<entry field="true" id="25" symbol="LAYOUTMODE_GRAY"/>
+<entry field="true" id="24" symbol="LAYOUTMODE_BLACK"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436266" name="timeString" stackId="7" startPc="268435485"/>
+<entry endPc="268436266" name="middle_position" stackId="12" startPc="268435485"/>
+<entry endPc="268436266" name="now" stackId="5" startPc="268435485"/>
+<entry endPc="268436266" name="yearMonth" stackId="8" startPc="268435485"/>
+<entry endPc="268436266" name="font" stackId="2" startPc="268435485"/>
+<entry endPc="268436266" name="date" stackId="6" startPc="268435485"/>
+<entry endPc="268436266" name="clockTime" stackId="4" startPc="268435485"/>
+<entry endPc="268436266" name="stringFont" stackId="3" startPc="268435485"/>
+<entry endPc="268436266" name="top_pozition" stackId="13" startPc="268435485"/>
+<entry endPc="268436266" name="bottom_pozition" stackId="14" startPc="268435485"/>
+<entry endPc="268436266" name="x" stackId="10" startPc="268435485"/>
+<entry endPc="268436266" name="textDim" stackId="9" startPc="268435485"/>
+<entry endPc="268436266" name="real_middle" stackId="11" startPc="268435485"/>
+<entry endPc="268436981" name="xValues" stackId="12" startPc="268436491"/>
+<entry endPc="268436981" name="font" stackId="2" startPc="268436491"/>
+<entry endPc="268436981" name="m" stackId="15" startPc="268436491"/>
+<entry endPc="268436981" name="drawView" stackId="14" startPc="268436491"/>
+<entry endPc="268436981" name="stepsX" stackId="5" startPc="268436491"/>
+<entry endPc="268436981" name="top_pozition" stackId="10" startPc="268436491"/>
+<entry endPc="268436981" name="stringData" stackId="13" startPc="268436491"/>
+<entry endPc="268436981" name="activityData" stackId="11" startPc="268436491"/>
+<entry endPc="268436981" name="textDim" stackId="3" startPc="268436491"/>
+<entry endPc="268436981" name="x" stackId="4" startPc="268436491"/>
+<entry endPc="268436981" name="stepsGoalX" stackId="6" startPc="268436491"/>
+<entry endPc="268436981" name="caloriesX" stackId="7" startPc="268436491"/>
+<entry endPc="268436981" name="real_middle" stackId="9" startPc="268436491"/>
+<entry endPc="268436981" name="distanceX" stackId="8" startPc="268436491"/>
+<entry endPc="268437161" name="length" stackId="3" startPc="268436986"/>
+<entry endPc="268437161" name="data" stackId="2" startPc="268436986"/>
+<entry endPc="268437372" name="feetDistance" stackId="3" startPc="268437299"/>
+<entry endPc="268437375" name="distanceStr" stackId="2" startPc="268437166"/>
+<entry endPc="268437536" name="layoutMode" stackId="2" startPc="268437403"/>
+<entry endPc="268437782" name="pWidth" stackId="4" startPc="268437720"/>
+<entry endPc="268437782" name="pY" stackId="3" startPc="268437720"/>
+<entry endPc="268437782" name="pX" stackId="2" startPc="268437720"/>
+<entry endPc="268437782" name="pHeight" stackId="5" startPc="268437720"/>
+<entry endPc="268438119" name="rez_cmp_local_custom_drawable_activityView" stackId="3" startPc="268438006"/>
+<entry endPc="268438119" name="rez_cmp_local_custom_drawable_presentView" stackId="2" startPc="268438006"/>
+<entry endPc="268438237" name="rez_cmp_local_custom_drawable_activityView" stackId="3" startPc="268438124"/>
+<entry endPc="268438237" name="rez_cmp_local_custom_drawable_presentView" stackId="2" startPc="268438124"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="PresentTimeView">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="PresentTimeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="customDrawText" parent="PresentTimeView">
+<param id="x"/>
+<param id="dc"/>
+<param id="colour"/>
+<param id="data"/>
+<param id="pozition"/>
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ActivityView">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="ActivityView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertData" parent="ActivityView">
+<param id="datas"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertDistance" parent="ActivityView">
+<param id="distance"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BackToTheFutureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="BackToTheFutureView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="BackToTheFutureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BackToTheFutureView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="BackToTheFutureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="BackToTheFutureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="BackToTheFutureView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BackToTheFutureApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="BackToTheFutureApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="BackToTheFutureApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="BackToTheFutureApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainBackground">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="MainBackground">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="MainBackground">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="BlackModeLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="NormalModeLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
